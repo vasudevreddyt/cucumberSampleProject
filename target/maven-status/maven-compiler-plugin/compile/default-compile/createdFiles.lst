@@ -1,0 +1,6 @@
+stepdefinitions/CustomerSteps.class
+stepdefinitions/Hooks.class
+pages/CustomerPage.class
+base/BasePage.class
+stepdefinitions/LoginSteps.class
+pages/LoginPage.class
